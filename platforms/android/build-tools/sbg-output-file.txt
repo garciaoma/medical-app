@@ -1,0 +1,1 @@
+/Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/src/main/java

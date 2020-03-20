@@ -1,7 +1,13 @@
 {
   "name": "medical-app",
   "nativescript": {
-    "id": "org.nativescript.medicalapp"
+    "id": "org.nativescript.medicalapp",
+    "tns-ios": {
+      "version": "6.5.0"
+    },
+    "tns-android": {
+      "version": "6.5.0"
+    }
   },
   "version": "0.0.0",
   "scripts": {

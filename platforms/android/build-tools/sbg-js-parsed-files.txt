@@ -1,0 +1,5 @@
+/Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/src/main/assets/app/runtime.js
+/Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/src/main/assets/app/bundle.js
+/Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/src/main/assets/app/vendor.js
+/Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/src/main/assets/app/tns-java-classes.js
+/Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/src/main/assets/app/bundle.ddff01e1c09f10b76962.hot-update.js
