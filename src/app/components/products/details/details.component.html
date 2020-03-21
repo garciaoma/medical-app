@@ -1,1 +1,13 @@
-<p>details works!</p>
+<div class="d-flex p-3">
+    <img class="logo" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png" alt="">
+    <div class="d-flex flex-column main-title">
+        <span [innerText]="product.name"></span>
+        <span class="short-description" [innerText]="product.shortDescription"></span>
+    </div>
+    <div class="d-flex flex-row justify-content-end">
+        <span class="long-description" [innerText]="product.longDescription"></span>
+        <div class="d-flex flex-column">
+            <button type="button" class="btn btn-primary" (click)="onGoBack()">Back</button>
+        </div>
+    </div>
+</div>

@@ -1,4 +1,10 @@
+/Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/src/main/assets/app/bundle.39ce79267010702d0eec.hot-update.js
 /Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/src/main/assets/app/runtime.js
+/Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/src/main/assets/app/bundle.6da2b1962f934136b480.hot-update.js
+/Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/src/main/assets/app/bundle.189a62e0c0dca7beef57.hot-update.js
 /Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/src/main/assets/app/bundle.js
+/Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/src/main/assets/app/bundle.9faaee2b919972ca3abb.hot-update.js
+/Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/src/main/assets/app/bundle.d72b82b7c6dba2a1743d.hot-update.js
 /Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/src/main/assets/app/vendor.js
+/Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/src/main/assets/app/bundle.8bd8916255547bf2f06e.hot-update.js
 /Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/src/main/assets/app/tns-java-classes.js

@@ -1,4 +1,4 @@
-#Sat Mar 21 18:35:20 GMT+00:00 2020
+#Sat Mar 21 18:51:58 GMT+00:00 2020
 base.0=/Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

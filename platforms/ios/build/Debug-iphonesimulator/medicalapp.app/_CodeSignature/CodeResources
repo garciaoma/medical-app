@@ -62,7 +62,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		cyTTPbJvg8dpG0TaHssOMoRFl5U=
+		yKUzEU0fwSkhTCvSVjefak/delk=
 		</data>
 		<key>Frameworks/MDFInternationalization.framework/Info.plist</key>
 		<data>
@@ -1098,11 +1098,11 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib</key>
 		<data>
-		sbBINdsm2BF7+iU6ZdLiQOIn9h0=
+		1dt/+l5yXwAOjoURoYur5pPJvLk=
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib</key>
 		<data>
-		CzzPU8527hxth1+H64+iqRm0ohs=
+		wrkRDY4FOlP5XX5DzcHq5N+RaGc=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -1110,19 +1110,67 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib</key>
 		<data>
-		9xXOM5y6+2imQyB9O+23SPIuckk=
+		kpVlTDA/dY1JS6+vO7HQc2x/xF8=
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib</key>
 		<data>
-		4tAcBhCmeBceJjiG1VqdiQCGoV8=
+		vgQbui5asZqAN4v0hWCfkeCIgRs=
 		</data>
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
 		</data>
+		<key>app/004663b174469620a6ac.hot-update.json</key>
+		<data>
+		Jvr7B+AwNQk9pj6HMBuFqKktmuI=
+		</data>
+		<key>app/257e8a4d1e4857a77f62.hot-update.json</key>
+		<data>
+		7ZUy+Gn3H6lgkEK0LuUBdJx468Q=
+		</data>
+		<key>app/5b708d248480ec26b387.hot-update.json</key>
+		<data>
+		49we43sT2x7bliVyQZpdf9Nuuqw=
+		</data>
+		<key>app/62148fdd824f6c974441.hot-update.json</key>
+		<data>
+		ce6Fle7x03pEUP8VxDrKEbJbHHU=
+		</data>
+		<key>app/bundle.004663b174469620a6ac.hot-update.js</key>
+		<data>
+		QGNfVAL78/6rev1zeEme7eV6clM=
+		</data>
+		<key>app/bundle.257e8a4d1e4857a77f62.hot-update.js</key>
+		<data>
+		YPD3yGu2Nl75vu9Si5O0fTt6Ufo=
+		</data>
+		<key>app/bundle.5b708d248480ec26b387.hot-update.js</key>
+		<data>
+		AFtq97jCMbywdk9ezfEU/eVKBU8=
+		</data>
+		<key>app/bundle.62148fdd824f6c974441.hot-update.js</key>
+		<data>
+		tciLzytKY8YAr6pv6tEoc2+gsdM=
+		</data>
+		<key>app/bundle.c774841e4345bce064ab.hot-update.js</key>
+		<data>
+		pOVEj/hnrktANsoD/5Qf5q7FHuo=
+		</data>
+		<key>app/bundle.e978e150640f0da3f989.hot-update.js</key>
+		<data>
+		E1OSKILRW6XvE9xD1mrBTg3oiaU=
+		</data>
 		<key>app/bundle.js</key>
 		<data>
-		YQbCp2hWn7ISM/wYLOb2DFRPhp0=
+		PiSHwxo64sPm4eDpadPob2q6EoY=
+		</data>
+		<key>app/c774841e4345bce064ab.hot-update.json</key>
+		<data>
+		rl/e467xiM17L06GYO2R7AwanJ0=
+		</data>
+		<key>app/e978e150640f0da3f989.hot-update.json</key>
+		<data>
+		oZK/L3QyjS8l05WHgSKBjNnV22E=
 		</data>
 		<key>app/package.json</key>
 		<data>
@@ -1130,7 +1178,7 @@
 		</data>
 		<key>app/runtime.js</key>
 		<data>
-		BPaUArhznLt2GpLWUK+66R3bGgY=
+		uqKovGtRTEhoVmJXMn6f/i3fFxw=
 		</data>
 		<key>app/tns_modules/tns-core-modules/inspector_modules.js</key>
 		<data>
@@ -1314,11 +1362,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cyTTPbJvg8dpG0TaHssOMoRFl5U=
+			yKUzEU0fwSkhTCvSVjefak/delk=
 			</data>
 			<key>hash2</key>
 			<data>
-			4uinaqah47YT/h19gOTocrHtOnuXBdohVb4JJMuMMOs=
+			Ur71pX03RAR0mEzxsSE4/CFKeE8y4pxYaeyASPJ6k88=
 			</data>
 		</dict>
 		<key>Frameworks/MDFInternationalization.framework/Info.plist</key>
@@ -3494,22 +3542,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sbBINdsm2BF7+iU6ZdLiQOIn9h0=
+			1dt/+l5yXwAOjoURoYur5pPJvLk=
 			</data>
 			<key>hash2</key>
 			<data>
-			sbJ61u2qKs3FP0OBvYBiuqEhsQ8G95OOvQuMOWYxneU=
+			myWoTOvF6t9oNaNzauxV3t7rXEmHimPOKMZeaXWPd9w=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CzzPU8527hxth1+H64+iqRm0ohs=
+			wrkRDY4FOlP5XX5DzcHq5N+RaGc=
 			</data>
 			<key>hash2</key>
 			<data>
-			408hT5EScKgXNViS29OjoAK6IldEtLtaVb7ri52jCFM=
+			OK8NwCv3uXubD9Jm9raJMsmoiIkLddFsqaZGx/U3WCc=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -3527,33 +3575,165 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9xXOM5y6+2imQyB9O+23SPIuckk=
+			kpVlTDA/dY1JS6+vO7HQc2x/xF8=
 			</data>
 			<key>hash2</key>
 			<data>
-			VKL1JZ0QtvoucayYo46K+Gzk4is0r+QqiR5phUgetXA=
+			VfyenCP0WfwU2+d2t5lc4DI9ujf6wvK7BHklcDBe220=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4tAcBhCmeBceJjiG1VqdiQCGoV8=
+			vgQbui5asZqAN4v0hWCfkeCIgRs=
 			</data>
 			<key>hash2</key>
 			<data>
-			nMjuLQ6be9a/OGxC06TepHIaj74Agx3oGg8MDhT6xMc=
+			F/DgdfLj0gEyz7ZY5GycxF5diz4YvnExr57pSgL2H4g=
+			</data>
+		</dict>
+		<key>app/004663b174469620a6ac.hot-update.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Jvr7B+AwNQk9pj6HMBuFqKktmuI=
+			</data>
+			<key>hash2</key>
+			<data>
+			guougzmDQgBdTCTav0qmbPf909GL8lpFd2GFtqoRX8I=
+			</data>
+		</dict>
+		<key>app/257e8a4d1e4857a77f62.hot-update.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7ZUy+Gn3H6lgkEK0LuUBdJx468Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			DVcBfE79Wg1tK/fRedkkZHGtXeJ6d6UI8/y2KGmB+ng=
+			</data>
+		</dict>
+		<key>app/5b708d248480ec26b387.hot-update.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			49we43sT2x7bliVyQZpdf9Nuuqw=
+			</data>
+			<key>hash2</key>
+			<data>
+			/jrCDvwmVV+qSlyMJ3o/FMr50kNMwcYQPSO6SVW1rbs=
+			</data>
+		</dict>
+		<key>app/62148fdd824f6c974441.hot-update.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ce6Fle7x03pEUP8VxDrKEbJbHHU=
+			</data>
+			<key>hash2</key>
+			<data>
+			FeHoGBwcXWEKWhRVd/Tbspsp3OqED5m1ttAzbrvGCJ8=
+			</data>
+		</dict>
+		<key>app/bundle.004663b174469620a6ac.hot-update.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QGNfVAL78/6rev1zeEme7eV6clM=
+			</data>
+			<key>hash2</key>
+			<data>
+			dygNuZb/Kuq9abxOkAe9nm7xBE7YRhgQmhVlL60wSR0=
+			</data>
+		</dict>
+		<key>app/bundle.257e8a4d1e4857a77f62.hot-update.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YPD3yGu2Nl75vu9Si5O0fTt6Ufo=
+			</data>
+			<key>hash2</key>
+			<data>
+			QarDJyy7jXAByqG4Xzn4JDH6vcx1+IGsePvbGJEzhH4=
+			</data>
+		</dict>
+		<key>app/bundle.5b708d248480ec26b387.hot-update.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AFtq97jCMbywdk9ezfEU/eVKBU8=
+			</data>
+			<key>hash2</key>
+			<data>
+			WukkLjAZJjHHbvLTAyOvMBf/pvzc0GcEfGFpyNFsZEw=
+			</data>
+		</dict>
+		<key>app/bundle.62148fdd824f6c974441.hot-update.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tciLzytKY8YAr6pv6tEoc2+gsdM=
+			</data>
+			<key>hash2</key>
+			<data>
+			aObQfel3qbiG887xBWzT90zkqxpNttJbrUAZNULlXRk=
+			</data>
+		</dict>
+		<key>app/bundle.c774841e4345bce064ab.hot-update.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pOVEj/hnrktANsoD/5Qf5q7FHuo=
+			</data>
+			<key>hash2</key>
+			<data>
+			HpVCuKRX0Ieofnj6jYa3CEEZivj67ogquAfd0A5kHVw=
+			</data>
+		</dict>
+		<key>app/bundle.e978e150640f0da3f989.hot-update.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			E1OSKILRW6XvE9xD1mrBTg3oiaU=
+			</data>
+			<key>hash2</key>
+			<data>
+			4bM9sp1UeDgX4eaRBuL4bi6geUry+d0Dzudk7i8PpF8=
 			</data>
 		</dict>
 		<key>app/bundle.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YQbCp2hWn7ISM/wYLOb2DFRPhp0=
+			PiSHwxo64sPm4eDpadPob2q6EoY=
 			</data>
 			<key>hash2</key>
 			<data>
-			Zi06V4HiV34JRp3NKuPlhfhswQuYYwZ1m1ZpCecS8M4=
+			YnPgBEYZ2AgbEbt8Icav0z/Q/GQpTsLj2wDeW4+DB/E=
+			</data>
+		</dict>
+		<key>app/c774841e4345bce064ab.hot-update.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rl/e467xiM17L06GYO2R7AwanJ0=
+			</data>
+			<key>hash2</key>
+			<data>
+			1Z70LFGR0rbf0iB0m++94o0v1lDND9K4rFEp7y8MUMc=
+			</data>
+		</dict>
+		<key>app/e978e150640f0da3f989.hot-update.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oZK/L3QyjS8l05WHgSKBjNnV22E=
+			</data>
+			<key>hash2</key>
+			<data>
+			x4Q0NxefrAHijfupR9SamyjdJD/JkrTeWzcchbO5kIA=
 			</data>
 		</dict>
 		<key>app/package.json</key>
@@ -3571,11 +3751,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BPaUArhznLt2GpLWUK+66R3bGgY=
+			uqKovGtRTEhoVmJXMn6f/i3fFxw=
 			</data>
 			<key>hash2</key>
 			<data>
-			dISsEGLrqN2B+pcRj8Eau3CPSiNfgJNLE1tu/QbGfic=
+			BihxnQuEX/R84WP/E5Yf8rPK+Pi1obOz/OnAaNCQmyU=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/inspector_modules.js</key>

@@ -1,0 +1,19 @@
+.thumbnail-logo {
+    width: 50px;
+    height: 50px;
+}
+
+.main-title {
+    width: 60%;
+}
+
+.short-description {
+    font-size: 8px;
+    margin-top: -5px;
+}
+
+.long-description {
+    font-size: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}

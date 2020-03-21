@@ -1,1 +1,12 @@
-<p>list works!</p>
+<div class="d-flex flex-column p-4 m-4">
+    <div *ngIf="!selectedProduct">
+        <h1>List of products</h1>
+        <div *ngFor="let product of products">
+            <app-product-card [product]="product" (select)="onSelectedProduct($event)"></app-product-card>
+        </div>
+    </div>
+    <div *ngIf="selectedProduct">
+        <h1>Product details</h1>
+        <app-details [product]="selectedProduct" (back)="onSelectedProduct()"></app-details>
+    </div>
+</div> 
