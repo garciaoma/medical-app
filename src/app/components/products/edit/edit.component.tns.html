@@ -1,0 +1,27 @@
+<GridLayout>
+    <ScrollView>
+        <GridLayout rows="auto, auto, auto, auto">
+            <GridLayout height="200" row="0">
+				<Image colSpan="4" src="https://miro.medium.com/max/2880/1*UbVWCOuRgGWzUpyD6VFhvQ.png" stretch="aspectFill"></Image>
+            </GridLayout>
+
+            <StackLayout class="site-main-content" row="1">
+                <FlexLayout>
+                    <Label text="Product Name:"></Label>
+                    <TextField [text]="product.name"></TextField>
+                </FlexLayout>
+                <FlexLayout>
+                    <Label text="Short description:"></Label>
+                    <TextField [text]="product.shortDescription"></TextField>
+                </FlexLayout>
+                <FlexLayout>
+                    <Label text="Lond description:"></Label>
+                    <TextView [text]="product.longDescription"></TextView>
+                </FlexLayout>
+            </StackLayout>
+
+            <Button text="Save" (tap)="onSave()" row="2"></Button>
+            <Button text="Cancel" (tap)="onCancel()" row="3"></Button>
+        </GridLayout>
+    </ScrollView>
+</GridLayout>

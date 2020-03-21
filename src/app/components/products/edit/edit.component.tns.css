@@ -1,0 +1,20 @@
+.site-main-content {
+    margin: 12 24;
+}
+
+.site-main-container {
+    margin: 12 0;
+}
+
+.site-item-header {
+    font-size: 16;
+}
+
+.site-item-short-description {
+    font-size: 8;
+}
+
+.site-item-long-description {
+    margin: 12 0;
+    font-size: 10;
+}

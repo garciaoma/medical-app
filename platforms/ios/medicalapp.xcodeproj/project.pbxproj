@@ -17,6 +17,10 @@
 		CD45EE7C18DC2D5800FB50C0 /* app in Resources */ = {isa = PBXBuildFile; fileRef = CD45EE7A18DC2D5800FB50C0 /* app */; };
 		CD62955D1BB2678900AE3A93 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CD62955C1BB2678900AE3A93 /* main.m */; };
 		EEFE9790C44F4DEB992A050E /* TNSWidgets.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8483080711C54528AECD0483 /* TNSWidgets.framework */; };
+		8031B775A251484AA026F204 /* TNSListView.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3254CCFE89464C0C9A96B4ED /* TNSListView.framework */; };
+		EA0C9F7EDC1E4521B697AC4B /* TNSListView.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 3254CCFE89464C0C9A96B4ED /* TNSListView.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		AEBE5436B12144B09B969366 /* TNSCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AB537077B17149EBAB1B33EC /* TNSCore.framework */; };
+		CA1C25BD4F0E4AAD84FB1F5A /* TNSCore.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AB537077B17149EBAB1B33EC /* TNSCore.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +31,8 @@
 			dstSubfolderSpec = 10;
 			files = (
 				6706A10067C34B38945CE47A /* TNSWidgets.framework in Embed Frameworks */,
+				EA0C9F7EDC1E4521B697AC4B /* TNSListView.framework in Embed Frameworks */,
+				CA1C25BD4F0E4AAD84FB1F5A /* TNSCore.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -65,6 +71,8 @@
 		CDD59A271BB43B5D00EC2671 /* build-release.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = "build-release.xcconfig"; sourceTree = "<group>"; };
 		CDF4743E1BA4855C0087EA85 /* build.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = build.xcconfig; sourceTree = "<group>"; };
 		E3F8FF6E2ED74918B7656D10 /* NativeScriptEmbedder.m */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.objc; name = NativeScriptEmbedder.m; path = "../../node_modules/@nativescript/core/platforms/ios/src/NativeScriptEmbedder.m"; sourceTree = "<group>"; };
+		3254CCFE89464C0C9A96B4ED /* TNSListView.framework */ = {isa = PBXFileReference; name = TNSListView.framework; path = "$(SRCROOT)/../../node_modules/nativescript-ui-listview/platforms/ios/TNSListView.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
+		AB537077B17149EBAB1B33EC /* TNSCore.framework */ = {isa = PBXFileReference; name = TNSCore.framework; path = "$(SRCROOT)/../../node_modules/nativescript-ui-core/platforms/ios/TNSCore.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +82,8 @@
 			files = (
 				EEFE9790C44F4DEB992A050E /* TNSWidgets.framework in Frameworks */,
 				857829BCE7932EC60B8B9FEF /* Pods_medicalapp.framework in Frameworks */,
+				8031B775A251484AA026F204 /* TNSListView.framework in Frameworks */,
+				AEBE5436B12144B09B969366 /* TNSCore.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -102,13 +112,6 @@
 			name = "Build Scripts";
 			sourceTree = "<group>";
 		};
-		6AA3F0D6D78E477E8C027A3D /* TNSNativeSource */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = TNSNativeSource;
-			sourceTree = "<group>";
-		};
 		858B832518CA111C00AB12DE = {
 			isa = PBXGroup;
 			children = (
@@ -118,8 +121,10 @@
 				858B832F18CA111C00AB12DE /* Products */,
 				3F9C8B9267FA462F87ED8FB6 /* @nativescript/core */,
 				9B16C83740FE4B75A194A137 /* tns-core-modules-widgets */,
-				6AA3F0D6D78E477E8C027A3D /* TNSNativeSource */,
 				E2ED3243ED469554D5556134 /* Pods */,
+				973DE9D6016F4ACB996336EB /* TNSNativeSource */,
+				50E4F79C4EBA48F7BF4A2773 /* nativescript-ui-listview */,
+				9FF1570746F545AA8DC13FE0 /* nativescript-ui-core */,
 			);
 			sourceTree = "<group>";
 		};
@@ -137,6 +142,8 @@
 			children = (
 				8483080711C54528AECD0483 /* TNSWidgets.framework */,
 				B3FE150301197B8466051135 /* Pods_medicalapp.framework */,
+				3254CCFE89464C0C9A96B4ED /* TNSListView.framework */,
+				AB537077B17149EBAB1B33EC /* TNSCore.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -196,6 +203,27 @@
 			);
 			name = Pods;
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		973DE9D6016F4ACB996336EB /* TNSNativeSource */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = TNSNativeSource;
+			sourceTree = "<group>";
+		};
+		50E4F79C4EBA48F7BF4A2773 /* nativescript-ui-listview */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = nativescript-ui-listview;
+			sourceTree = "<group>";
+		};
+		9FF1570746F545AA8DC13FE0 /* nativescript-ui-core */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = nativescript-ui-core;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -471,6 +499,8 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/../../node_modules/tns-core-modules-widgets/platforms/ios\"",
+					"\"$(SRCROOT)/../../node_modules/nativescript-ui-listview/platforms/ios\"",
+					"\"$(SRCROOT)/../../node_modules/nativescript-ui-core/platforms/ios\"",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "medicalapp/medicalapp-Prefix.pch";
@@ -489,6 +519,9 @@
 					"\"$(SRCROOT)/../../App_Resources/iOS/src\"",
 					"\"$(SRCROOT)/../../App_Resources/iOS/src\"",
 					"\"$(SRCROOT)/../../App_Resources/iOS/src\"",
+					"\"$(SRCROOT)/../../App_Resources/iOS/src\"",
+					"\"$(SRCROOT)/../../node_modules/nativescript-ui-listview/platforms/ios/src\"",
+					"\"$(SRCROOT)/../../node_modules/nativescript-ui-core/platforms/ios/src\"",
 				);
 				INFOPLIST_FILE = "$(SRCROOT)/medicalapp/medicalapp-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -507,6 +540,8 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/../../node_modules/tns-core-modules-widgets/platforms/ios\"",
+					"\"$(SRCROOT)/../../node_modules/nativescript-ui-listview/platforms/ios\"",
+					"\"$(SRCROOT)/../../node_modules/nativescript-ui-core/platforms/ios\"",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "medicalapp/medicalapp-Prefix.pch";
@@ -521,6 +556,9 @@
 					"\"$(SRCROOT)/../../App_Resources/iOS/src\"",
 					"\"$(SRCROOT)/../../App_Resources/iOS/src\"",
 					"\"$(SRCROOT)/../../App_Resources/iOS/src\"",
+					"\"$(SRCROOT)/../../App_Resources/iOS/src\"",
+					"\"$(SRCROOT)/../../node_modules/nativescript-ui-listview/platforms/ios/src\"",
+					"\"$(SRCROOT)/../../node_modules/nativescript-ui-core/platforms/ios/src\"",
 				);
 				INFOPLIST_FILE = "$(SRCROOT)/medicalapp/medicalapp-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";

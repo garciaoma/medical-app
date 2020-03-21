@@ -1,9 +1,17 @@
 import { NgModule, NO_ERRORS_SCHEMA } from '@angular/core';
 import { NativeScriptModule } from 'nativescript-angular/nativescript.module';
 
-import { AppRoutingModule } from '@src/app/app-routing.module';
-import { AppComponent } from '@src/app/app.component';
-import { HomeComponent } from '@src/app/home/home.component';
+import { AppRoutingModule } from './app-routing.module';
+import { AppComponent } from './app.component';
+import { HomeComponent } from './components/pages/home/home.component';
+import { LoginComponent } from './components/pages/login/login.component';
+import { SignupComponent } from './components/pages/signup/signup.component';
+import { PaymentComponent } from './components/pages/payment/payment.component';
+import { ListComponent } from './components/products/list/list.component';
+import { SharedModule } from './shared/shared.module.tns';
+import { DetailsComponent } from './components/products/details/details.component';
+import { ProductCardComponent } from './components/products/product-card/product-card.component';
+import { EditComponent } from './components/products/edit/edit.component';
 
 
 // Uncomment and add to NgModule imports if you need to use two-way binding
@@ -16,10 +24,18 @@ import { HomeComponent } from '@src/app/home/home.component';
   declarations: [
     AppComponent,
     HomeComponent,
+    LoginComponent,
+    SignupComponent,
+    PaymentComponent,
+    ListComponent,
+    DetailsComponent,
+    ProductCardComponent,
+    EditComponent,
   ],
   imports: [
     NativeScriptModule,
     AppRoutingModule,
+    SharedModule
   ],
   providers: [],
   bootstrap: [AppComponent],

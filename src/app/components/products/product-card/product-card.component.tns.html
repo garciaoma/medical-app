@@ -1,0 +1,11 @@
+<GridLayout rows="*, auto" columns="auto, *, auto" (tap)="onSelect()">
+    <Image stretch="aspectFill" 
+        col="0"
+        class="site-template-image thumb-with-background"
+        src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png" height="40"></Image>
+    <StackLayout col="1" verticalAlignment="center">
+        <Label class="site-template-title" [text]="product.name"></Label>
+        <Label class="site-template-description" [text]="product.shortDescription"></Label>
+    </StackLayout>
+    <StackLayout margin="0,16,0,42" row="1" colSpan="2" backgroundColor="lightGray" height="1"></StackLayout>
+</GridLayout>

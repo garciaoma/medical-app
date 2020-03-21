@@ -1,11 +1,15 @@
 [
     {
+        "name": "@nativescript/theme",
+        "directory": "../../node_modules/@nativescript/theme"
+    },
+    {
         "name": "nativescript-angular",
         "directory": "../../node_modules/nativescript-angular"
     },
     {
-        "name": "@nativescript/theme",
-        "directory": "../../node_modules/@nativescript/theme"
+        "name": "nativescript-ui-listview",
+        "directory": "../../node_modules/nativescript-ui-listview"
     },
     {
         "name": "tns-core-modules",
@@ -14,6 +18,10 @@
     {
         "name": "@nativescript/angular",
         "directory": "../../node_modules/@nativescript/angular"
+    },
+    {
+        "name": "nativescript-ui-core",
+        "directory": "../../node_modules/nativescript-ui-core"
     },
     {
         "name": "@nativescript/core",

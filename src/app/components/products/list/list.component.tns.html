@@ -1,0 +1,10 @@
+<GridLayout>
+    <ListView [items]="productsList" *ngIf="!selectedProduct" separatorColor="transparent">
+        <ng-template let-item="item">
+            <AppProductCard [product]="item" (select)="onSelect($event)"></AppProductCard>
+        </ng-template>
+    </ListView>
+
+    <AppDetails *ngIf="selectedProduct && !editedProduct" [product]="selectedProduct" (goBack)="onSelect()" (edit)="onEdit($event)"></AppDetails>
+    <AppEdit *ngIf="editedProduct" [product]="editedProduct" (cancel)="onEdit()"></AppEdit>
+</GridLayout>

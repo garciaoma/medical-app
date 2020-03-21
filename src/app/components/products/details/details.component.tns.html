@@ -1,0 +1,22 @@
+<GridLayout>
+    <ScrollView>
+        <GridLayout rows="auto, auto, auto, auto">
+            <GridLayout height="200" row="0">
+				<Image colSpan="4" src="https://miro.medium.com/max/2880/1*UbVWCOuRgGWzUpyD6VFhvQ.png" stretch="aspectFill"></Image>
+            </GridLayout>
+
+            <StackLayout class="site-main-content" row="1">
+                <StackLayout>
+                    <Label class="site-item-header" [text]="product.name"></Label>
+                    <Label class="site-item-short-description" [text]="product.shortDescription"></Label>
+                </StackLayout>
+                <FlexLayout>
+                    <Label class="site-item-long-description" [text]="product.longDescription" textWrap="true"></Label>
+                </FlexLayout>
+            </StackLayout>
+
+            <Button text="Edit" (tap)="onEdit()" row="2"></Button>
+            <Button text="Go Back" (tap)="onGoBack()" row="3"></Button>
+        </GridLayout>
+    </ScrollView>
+</GridLayout>

@@ -1,5 +1,6 @@
 /usr/local/share/android-sdk/platforms/android-28/android.jar
 /Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/build/exploded-dependencies/89d1faf1b1b9a4d082da2436e695eb79/classes.jar
+/Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/build/exploded-dependencies/3c74794099f5d2b706e7be0c33235157/classes.jar
 /Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/build/exploded-dependencies/3ed66ffd5a9655ffdcc4471753e37c58/classes.jar
 /Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/build/exploded-dependencies/2948c2d0931123dc2a77b310fee1a8f7/lifecycle-common-2.0.0.jar
 /Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/build/exploded-dependencies/6ea9625231c4a143aa9f185579c94b5c/core-common-2.0.0.jar
@@ -37,4 +38,5 @@
 /Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/build/exploded-dependencies/6b35ef2306c09917a834942bbbe1f229/classes.jar
 /Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/build/exploded-dependencies/6488863ff6ef4078ee505105493c8389/classes.jar
 /Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/build/exploded-dependencies/75afbf2899ebaf65384720e831279bf3/classes.jar
+/Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/build/exploded-dependencies/ff95ba7f2e3b5fe37ca9a9dac875ae91/classes.jar
 /Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/build/exploded-dependencies/f5c34ca5f1e148ce2548f1e55d3aa25d/classes.jar
