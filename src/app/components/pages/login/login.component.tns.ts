@@ -1,7 +1,7 @@
 import { Component, ElementRef, ViewChild } from "@angular/core";
-import { alert, prompt } from "tns-core-modules/ui/dialogs";
+import { alert } from "tns-core-modules/ui/dialogs";
 import { Page } from "tns-core-modules/ui/page";
-import { Router } from "@angular/router";
+import { RouterExtensions } from "nativescript-angular/router";
 
 @Component({
   selector: 'AppLogin',
@@ -17,7 +17,7 @@ export class LoginComponent {
   @ViewChild("confirmPassword", {static: false}) confirmPassword: ElementRef;
 
   constructor(private page: Page, 
-    private router: Router) {
+    private router: RouterExtensions) {
       this.page.actionBarHidden = true;
   }
 

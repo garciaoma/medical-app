@@ -40,3 +40,4 @@
 /Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/build/exploded-dependencies/75afbf2899ebaf65384720e831279bf3/classes.jar
 /Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/build/exploded-dependencies/ff95ba7f2e3b5fe37ca9a9dac875ae91/classes.jar
 /Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/build/exploded-dependencies/f5c34ca5f1e148ce2548f1e55d3aa25d/classes.jar
+/Users/omargarciamagdaleno/Documents/training/nativeScript/medical-app/platforms/android/app/build/intermediates/javac/debug

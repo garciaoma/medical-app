@@ -1,6 +1,6 @@
 import { Component, OnInit, ViewChild, ElementRef } from "@angular/core";
 import { Page } from "tns-core-modules/ui/page/page";
-import { Router } from "@angular/router";
+import { RouterExtensions } from "nativescript-angular/router";
 
 @Component({
   selector: "app-signup",
@@ -15,7 +15,7 @@ export class SignupComponent implements OnInit {
   @ViewChild("password", { static: false }) password: ElementRef;
   @ViewChild("confirmPassword", { static: false }) confirmPassword: ElementRef;
 
-  constructor(private page: Page, private router: Router) {}
+  constructor(private page: Page, private router: RouterExtensions) {}
 
   ngOnInit() {
     this.page.actionBarHidden = true;

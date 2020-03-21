@@ -8,7 +8,7 @@ import { LoginComponent } from './components/pages/login/login.component';
 import { SignupComponent } from './components/pages/signup/signup.component';
 import { PaymentComponent } from './components/pages/payment/payment.component';
 import { ListComponent } from './components/products/list/list.component';
-import { SharedModule } from './shared/shared.module.tns';
+import { SharedModule } from './shared/shared.module';
 import { DetailsComponent } from './components/products/details/details.component';
 import { ProductCardComponent } from './components/products/product-card/product-card.component';
 import { EditComponent } from './components/products/edit/edit.component';

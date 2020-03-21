@@ -5,7 +5,7 @@ import Product from '@src/app/shared/models/product';
   selector: 'AppDetails',
   templateUrl: './details.component.html',
   styleUrls: ['./details.component.css'],
-  moduleId: 'module.id'
+  moduleId: module.id
 })
 export class DetailsComponent implements OnInit {
   @Input() product: Product;

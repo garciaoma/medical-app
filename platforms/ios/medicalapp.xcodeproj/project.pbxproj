@@ -120,11 +120,11 @@
 				858B833018CA111C00AB12DE /* Frameworks */,
 				858B832F18CA111C00AB12DE /* Products */,
 				3F9C8B9267FA462F87ED8FB6 /* @nativescript/core */,
-				9B16C83740FE4B75A194A137 /* tns-core-modules-widgets */,
 				E2ED3243ED469554D5556134 /* Pods */,
 				973DE9D6016F4ACB996336EB /* TNSNativeSource */,
 				50E4F79C4EBA48F7BF4A2773 /* nativescript-ui-listview */,
 				9FF1570746F545AA8DC13FE0 /* nativescript-ui-core */,
+				4424D51E7CFE43448689252C /* tns-core-modules-widgets */,
 			);
 			sourceTree = "<group>";
 		};
@@ -178,13 +178,6 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		9B16C83740FE4B75A194A137 /* tns-core-modules-widgets */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = "tns-core-modules-widgets";
-			sourceTree = "<group>";
-		};
 		E070579D1B39A9D000214BF1 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
@@ -224,6 +217,13 @@
 			children = (
 			);
 			name = nativescript-ui-core;
+			sourceTree = "<group>";
+		};
+		4424D51E7CFE43448689252C /* tns-core-modules-widgets */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = tns-core-modules-widgets;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -522,6 +522,7 @@
 					"\"$(SRCROOT)/../../App_Resources/iOS/src\"",
 					"\"$(SRCROOT)/../../node_modules/nativescript-ui-listview/platforms/ios/src\"",
 					"\"$(SRCROOT)/../../node_modules/nativescript-ui-core/platforms/ios/src\"",
+					"\"$(SRCROOT)/../../node_modules/tns-core-modules-widgets/platforms/ios/src\"",
 				);
 				INFOPLIST_FILE = "$(SRCROOT)/medicalapp/medicalapp-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -559,6 +560,7 @@
 					"\"$(SRCROOT)/../../App_Resources/iOS/src\"",
 					"\"$(SRCROOT)/../../node_modules/nativescript-ui-listview/platforms/ios/src\"",
 					"\"$(SRCROOT)/../../node_modules/nativescript-ui-core/platforms/ios/src\"",
+					"\"$(SRCROOT)/../../node_modules/tns-core-modules-widgets/platforms/ios/src\"",
 				);
 				INFOPLIST_FILE = "$(SRCROOT)/medicalapp/medicalapp-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";

@@ -1,8 +1,9 @@
 import { Injectable } from '@angular/core';
 import Product from '../../models/product';
+import { SharedModule } from '../../shared.module';
 
 @Injectable({
-  providedIn: 'root'
+  providedIn: SharedModule
 })
 export class ProductsDaoService {
 

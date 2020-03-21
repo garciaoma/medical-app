@@ -4,9 +4,12 @@ import { NativeScriptCommonModule } from 'nativescript-angular/common';
 
 
 @NgModule({
-  declarations: [],
+  declarations: [
+  ],
   imports: [
     NativeScriptCommonModule
+  ],
+  exports: [
   ],
   schemas: [NO_ERRORS_SCHEMA]
 })

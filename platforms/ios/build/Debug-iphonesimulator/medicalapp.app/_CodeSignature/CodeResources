@@ -62,7 +62,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		1smrxTMsQ0jV+pCLmXMrMa+3msQ=
+		cyTTPbJvg8dpG0TaHssOMoRFl5U=
 		</data>
 		<key>Frameworks/MDFInternationalization.framework/Info.plist</key>
 		<data>
@@ -1006,7 +1006,7 @@
 		</data>
 		<key>Frameworks/TNSWidgets.framework/Info.plist</key>
 		<data>
-		pKkw/GMYTYGmsFuBvEMrGoLQxRU=
+		NRsEz8n92mAz5wCxxJKneRpSCiE=
 		</data>
 		<key>Frameworks/TNSWidgets.framework/Modules/module.modulemap</key>
 		<data>
@@ -1014,11 +1014,11 @@
 		</data>
 		<key>Frameworks/TNSWidgets.framework/TNSWidgets</key>
 		<data>
-		xEqcdijWZMGFzomnOW0JBUOl2Bs=
+		a+31MblyyaiBtAx3nMOZhfntTmE=
 		</data>
 		<key>Frameworks/TNSWidgets.framework/_CodeSignature/CodeResources</key>
 		<data>
-		BgXfhADRwTsmiGRqjrkgHxdUAZU=
+		lcjjdmKu+A84uiht9zjzVNlpmAw=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -1098,11 +1098,11 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib</key>
 		<data>
-		2d4F82OsYyNCx9AfQpoGhV1xFTM=
+		sbBINdsm2BF7+iU6ZdLiQOIn9h0=
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib</key>
 		<data>
-		Nf6K10yFJFecMNbgl3TK2/O7NV4=
+		CzzPU8527hxth1+H64+iqRm0ohs=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -1110,11 +1110,11 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib</key>
 		<data>
-		ag6yUT3sM92eJXbC/jx85ra+32A=
+		9xXOM5y6+2imQyB9O+23SPIuckk=
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib</key>
 		<data>
-		sffBWaY6H9KB77KdMPwzUIzmkGI=
+		4tAcBhCmeBceJjiG1VqdiQCGoV8=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -1122,7 +1122,7 @@
 		</data>
 		<key>app/bundle.js</key>
 		<data>
-		XO15t4jF04tG4YqUXFlAk380E98=
+		YQbCp2hWn7ISM/wYLOb2DFRPhp0=
 		</data>
 		<key>app/package.json</key>
 		<data>
@@ -1130,7 +1130,7 @@
 		</data>
 		<key>app/runtime.js</key>
 		<data>
-		Ut7Stza+pCcJYN/WI5HWo8iUQeY=
+		BPaUArhznLt2GpLWUK+66R3bGgY=
 		</data>
 		<key>app/tns_modules/tns-core-modules/inspector_modules.js</key>
 		<data>
@@ -1138,7 +1138,7 @@
 		</data>
 		<key>app/vendor.js</key>
 		<data>
-		HZsgwT8PU2ylLTioD7kRon4B4U0=
+		ORxxcZcF44vQR76Cba7yvDD7ijE=
 		</data>
 		<key>build.xcconfig</key>
 		<data>
@@ -1314,11 +1314,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1smrxTMsQ0jV+pCLmXMrMa+3msQ=
+			cyTTPbJvg8dpG0TaHssOMoRFl5U=
 			</data>
 			<key>hash2</key>
 			<data>
-			bwjoCukWWMvaVxV0YfMMHGJSV2RfhMoRseCWFhdwMMo=
+			4uinaqah47YT/h19gOTocrHtOnuXBdohVb4JJMuMMOs=
 			</data>
 		</dict>
 		<key>Frameworks/MDFInternationalization.framework/Info.plist</key>
@@ -3252,11 +3252,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pKkw/GMYTYGmsFuBvEMrGoLQxRU=
+			NRsEz8n92mAz5wCxxJKneRpSCiE=
 			</data>
 			<key>hash2</key>
 			<data>
-			a6tdWDKXYt20mYSi/Lq0QHDz5HRMvO6RFf9wYciViX4=
+			ptg8rZraQwyrHHJ/15ZDQVy/iqyEUmwWCOtACMugc84=
 			</data>
 		</dict>
 		<key>Frameworks/TNSWidgets.framework/Modules/module.modulemap</key>
@@ -3274,22 +3274,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xEqcdijWZMGFzomnOW0JBUOl2Bs=
+			a+31MblyyaiBtAx3nMOZhfntTmE=
 			</data>
 			<key>hash2</key>
 			<data>
-			Y/5M7VrT8Kmun7mavNLuQ9+Tlf/0nooFyoJFkM1T7AY=
+			BSRehAWCQRm7kCsOVf0iuHrSGXi/2D4snDbRawt+su4=
 			</data>
 		</dict>
 		<key>Frameworks/TNSWidgets.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BgXfhADRwTsmiGRqjrkgHxdUAZU=
+			lcjjdmKu+A84uiht9zjzVNlpmAw=
 			</data>
 			<key>hash2</key>
 			<data>
-			vLm/Sxu1j5RAV/8noeBIMguK4bO8uYDK8dpDnqNQ/Bo=
+			rl+86btYkPAPPALbtFfb33yiDi3vxhJtL5j9gT5r4AI=
 			</data>
 		</dict>
 		<key>LaunchImage-1100-Landscape-2436h@3x.png</key>
@@ -3494,22 +3494,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2d4F82OsYyNCx9AfQpoGhV1xFTM=
+			sbBINdsm2BF7+iU6ZdLiQOIn9h0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Teo+2tObp4Av/aAQb9sIDw//xyRIVDorqqS4IAew7x8=
+			sbJ61u2qKs3FP0OBvYBiuqEhsQ8G95OOvQuMOWYxneU=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Nf6K10yFJFecMNbgl3TK2/O7NV4=
+			CzzPU8527hxth1+H64+iqRm0ohs=
 			</data>
 			<key>hash2</key>
 			<data>
-			sL20SYhbLmTk2wRhTvryb/Wsh5wRL1YXCnSlhkxpMv0=
+			408hT5EScKgXNViS29OjoAK6IldEtLtaVb7ri52jCFM=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -3527,33 +3527,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ag6yUT3sM92eJXbC/jx85ra+32A=
+			9xXOM5y6+2imQyB9O+23SPIuckk=
 			</data>
 			<key>hash2</key>
 			<data>
-			qTYNhVv+bVhzPseC5wtAxsjrLV0r4cBfnorVQuJf570=
+			VKL1JZ0QtvoucayYo46K+Gzk4is0r+QqiR5phUgetXA=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sffBWaY6H9KB77KdMPwzUIzmkGI=
+			4tAcBhCmeBceJjiG1VqdiQCGoV8=
 			</data>
 			<key>hash2</key>
 			<data>
-			KnTDn1n1b/KXLyiH+yRQdCMbU4eC/QgDFnyI/jL86xQ=
+			nMjuLQ6be9a/OGxC06TepHIaj74Agx3oGg8MDhT6xMc=
 			</data>
 		</dict>
 		<key>app/bundle.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XO15t4jF04tG4YqUXFlAk380E98=
+			YQbCp2hWn7ISM/wYLOb2DFRPhp0=
 			</data>
 			<key>hash2</key>
 			<data>
-			FAknVBEwIzQin2d+czdHNpDjIHjMhw7n/ogw4mOOHNo=
+			Zi06V4HiV34JRp3NKuPlhfhswQuYYwZ1m1ZpCecS8M4=
 			</data>
 		</dict>
 		<key>app/package.json</key>
@@ -3571,11 +3571,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ut7Stza+pCcJYN/WI5HWo8iUQeY=
+			BPaUArhznLt2GpLWUK+66R3bGgY=
 			</data>
 			<key>hash2</key>
 			<data>
-			14eNpyaKPz0Zefcx1DmIjmDNwwE9V4Gi04PzXtl6PJM=
+			dISsEGLrqN2B+pcRj8Eau3CPSiNfgJNLE1tu/QbGfic=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/inspector_modules.js</key>
@@ -3593,11 +3593,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HZsgwT8PU2ylLTioD7kRon4B4U0=
+			ORxxcZcF44vQR76Cba7yvDD7ijE=
 			</data>
 			<key>hash2</key>
 			<data>
-			3qKk1BSjiVax0LK57csqa8DiBooomB0fSCNtEsN6bJM=
+			1SFHitM18jbTKd5mx/FcKuuUPU8pFaCu9FZNS02TGYQ=
 			</data>
 		</dict>
 		<key>build.xcconfig</key>

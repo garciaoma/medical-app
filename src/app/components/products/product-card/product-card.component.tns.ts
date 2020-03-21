@@ -5,7 +5,7 @@ import Product from '@src/app/shared/models/product';
   selector: 'AppProductCard',
   templateUrl: './product-card.component.html',
   styleUrls: ['./product-card.component.css'],
-  moduleId: 'module.id'
+  moduleId: module.id
 })
 export class ProductCardComponent implements OnInit {
   @Input() product: Product;

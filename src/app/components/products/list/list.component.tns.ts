@@ -6,7 +6,7 @@ import Product from '@src/app/shared/models/product';
   selector: 'AppList',
   templateUrl: './list.component.html',
   styleUrls: ['./list.component.css'],
-  moduleId: 'module.id'
+  moduleId: module.id
 })
 export class ListComponent implements OnInit {
   productsList: Product [] = [];
